@@ -1,3 +1,6 @@
+## Hey Everyone 👋, I'm Abhishek
+
+
 ### 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=github-dark&hide_border=true)
 ``
@@ -8,11 +11,6 @@
 
 Welcome to my GitHub profile!
 
----
-
-## 📊 GitHub Stats (Dark Theme)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek7359-k&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -22,11 +20,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek7359-k&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📈 Contribution Activity Graph
 
@@ -34,7 +27,7 @@ Welcome to my GitHub profile!
 
 ---
 
-
+<img src="https://raw.githubusercontent.com/abhishek7359-k/YOUR_REPO/main/developer.png" width="400"/>
 <!--
 **abhishek7359-k/abhishek7359-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
