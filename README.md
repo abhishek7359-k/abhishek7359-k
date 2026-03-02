@@ -40,11 +40,6 @@ ________________________________________________________________________________
   <img src="https://raw.githubusercontent.com/abhishek7359-k/abhishek7359-k/main/your-image.png" width="450"/>
 </p>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=react-dark&hide_border=true"/>
-
----
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)  
