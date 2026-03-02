@@ -6,7 +6,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=github-dark&hide_border=true)
 
 # 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Devops-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 ![JavaScript](https://img.shields.io/badge/AWS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
