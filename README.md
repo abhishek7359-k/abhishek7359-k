@@ -1,5 +1,8 @@
 ## Hey Everyone 👋, I'm Abhishek
 
+## 🧰 Tech Stack (AWS & DevOps)
+### ☁️ Cloud
+<img src="https://img.shields.io/badge/AWS-F29100?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 ### 🧰 DevOps Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -36,29 +39,6 @@ ________________________________________________________________________________
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhishek7359-k/abhishek7359-k/main/your-image.png" width="450"/>
 </p>
-
----
-
-## 🧰 Tech Stack (AWS & DevOps)
-
-### ☁️ Cloud
-<img src="https://img.shields.io/badge/AWS-F29100?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek7359-k&show_icons=true&theme=tokyonight&hide_border=true"/>
-
----
-
-## 🔥 Streaks
-
-<img src="https://streak-stats.demolab.com?user=abhishek7359-k&theme=tokyonight&hide_border=true"/>
-
----
 
 ## 📈 Contribution Graph
 
