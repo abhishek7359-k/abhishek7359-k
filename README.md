@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishek7359-k&theme=tokyonight&hide_border=true)
 
-https://komarev.com/ghpvc/?username=abhishek7359-k&label=Profile%20views&color=0e75b6&style=flat
+![](https://komarev.com/ghpvc/?username=abhishek7359-k&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 **abhishek7359-k/abhishek7359-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
