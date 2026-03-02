@@ -7,10 +7,6 @@
 ### ⚙️ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek7359-k&show_icons=true&theme=tokyonight)
 
-## 👋 Hi there!
-
-Welcome to my GitHub profile!
-
 
 ---
 
@@ -27,7 +23,7 @@ Welcome to my GitHub profile!
 
 ---
 
-<img src="https://raw.githubusercontent.com/abhishek7359-k/YOUR_REPO/main/developer.png" width="400"/>
+<img src="https://raw.githubusercontent.com/abhishek7359-k/abhishek7359-k/main/developer.png" width="400"/>
 <!--
 **abhishek7359-k/abhishek7359-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
