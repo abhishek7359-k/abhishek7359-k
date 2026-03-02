@@ -1,4 +1,8 @@
-## Hi there 👋
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=github-dark&hide_border=true)
+``
+### ⚙️ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek7359-k&show_icons=true&theme=tokyonight)
 
 <!--
 **abhishek7359-k/abhishek7359-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
