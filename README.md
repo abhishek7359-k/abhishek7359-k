@@ -1,11 +1,15 @@
 ## Hey Everyone 👋, I'm Abhishek
 
 
-### 📈 Contribution Graph
+## 📈 Contribution Activity Graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=github-dark&hide_border=true)
-``
-### ⚙️ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek7359-k&show_icons=true&theme=tokyonight)
+
+# 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 ---
@@ -14,16 +18,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishek7359-k&theme=tokyonight&hide_border=true)
 
----
+https://komarev.com/ghpvc/?username=abhishek7359-k&label=Profile%20views&color=0e75b6&style=flat
 
-
-## 📈 Contribution Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=github-dark&hide_border=true)
-
----
-
-<img src="https://raw.githubusercontent.com/abhishek7359-k/abhishek7359-k/main/developer.png" width="400"/>
 <!--
 **abhishek7359-k/abhishek7359-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
