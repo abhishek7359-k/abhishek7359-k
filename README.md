@@ -1,6 +1,5 @@
 ## Hey Everyone 👋, I'm Abhishek
 
-# 🛠️ Tech Stack
 ![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 ## 📈 Contribution Activity Graph
