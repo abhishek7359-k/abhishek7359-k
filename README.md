@@ -1,15 +1,15 @@
 ## Hey Everyone 👋, I'm Abhishek
 
+# 🛠️ Tech Stack
+![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 ## 📈 Contribution Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek7359-k&theme=github-dark&hide_border=true)
 
-# 🛠️ Tech Stack
-![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
-![JavaScript](https://img.shields.io/badge/AWS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+_____________________________________________________________________________________________________________________________________________________________________________
+🔥 GitHub Contribution Streak
+![](https://camo.githubusercontent.com/fa8b88e230dd53bb25affa01ab474110d860e3bfe95a70569ca5de7640c7efbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697448756225323053747265616b2d4163746976652d627269676874677265656e3f6c6f676f3d676974687562267374796c653d666f722d7468652d6261646765)
 
 
 ---
