@@ -36,11 +36,6 @@ ________________________________________________________________________________
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishek7359-k/abhishek7359-k/main/your-image.png" width="450"/>
-</p>
-
-
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)  
 [Portfolio](https://YOUR_PORTFOLIO.com)
