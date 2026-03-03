@@ -1,9 +1,9 @@
 ## Hey Everyone 👋, I'm Abhishek
 
-## 🧰 Tech Stack (AWS & DevOps)
-### ☁️ Cloud
+ 🧰 Tech Stack (AWS & DevOps)
+☁️ Cloud
 <img src="https://img.shields.io/badge/AWS-F29100?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-### 🧰 DevOps Tools
+ 🧰 DevOps Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
