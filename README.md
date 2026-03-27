@@ -1,6 +1,6 @@
 ## Hey Everyone 👋, I'm Abhishek
 
- 🧰 Tech Stack (AWS & DevOps)
+ 🧰 (AWS & DevOps)
 ☁️ Cloud
 
 <img src="https://img.shields.io/badge/AWS-F29100?style=for-the-badge&logo=amazonaws&logoColor=white"/>
